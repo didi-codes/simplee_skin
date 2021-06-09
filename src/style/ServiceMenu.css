@@ -1,0 +1,34 @@
+.ssServiceMenu{
+   margin-top: 5%;
+
+}
+.ssServiceMenu h1 {
+    text-align: center;
+}
+
+.serviceMenuCard {
+    display: flex;
+    flex-direction: column;
+    margin-top: 3%;
+    background-color: white;
+    box-shadow: 1px 1px 5px;
+    background-image: url("https://images.pexels.com/photos/4210371/pexels-photo-4210371.jpeg?auto=compress&cs=tinysrgb&h=650&w=940");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.serviceMenuCard h2 {
+    text-align: center;
+}
+.advanceTreatmentCard{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    box-shadow: 1px 1px 5px;
+    background-image: url("https://images.pexels.com/photos/4210371/pexels-photo-4210371.jpeg?auto=compress&cs=tinysrgb&h=650&w=940");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.advanceTreatmentCard h2 {
+    text-align: center;
+}
